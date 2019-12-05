@@ -15,6 +15,6 @@ email: mauriurraco@gmail.com
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-154007714-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
