@@ -1,3 +1,4 @@
-Site disfunctional because Im an idiot. Would be fixed by 20th april 2020. If you see this message even after that, please be sure to abuse me on DM for being a fucking fatass. Btw HI.
+Blog is added but requires a lot of changes(ideas pade, new etc). 
 
-Edit- lmao site works fine. Idk how. made some faulty changes but still works.
+Main page:- jekyll-theme-minimal-resume
+Other Pages:- Cayman-blog theme
